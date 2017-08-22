@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!/.bash
+!/.sh
+!/.shell
+!/.zsh
+!.bash_logout
+!.bash_profile
+!.bashrc
+!.profile
+!.zshenv
+!.zshrc
